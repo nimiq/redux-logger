@@ -1,4 +1,4 @@
-import differ from 'deep-diff';
+import differ from './deep-diff/index.es.js';
 
 // https://github.com/flitbit/diff#differences
 const dictionary = {

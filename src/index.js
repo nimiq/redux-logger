@@ -1,6 +1,6 @@
-import printBuffer from './core';
-import { timer } from './helpers';
-import defaults from './defaults';
+import printBuffer from './core.js';
+import { timer } from './helpers.js';
+import defaults from './defaults.js';
 /* eslint max-len: ["error", 110, { "ignoreComments": true }] */
 /**
  * Creates logger with following options

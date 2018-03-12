@@ -1,5 +1,5 @@
-import { formatTime } from './helpers';
-import diffLogger from './diff';
+import { formatTime } from './helpers.js';
+import diffLogger from './diff.js';
 
 /**
  * Get log level string based on supplied params
